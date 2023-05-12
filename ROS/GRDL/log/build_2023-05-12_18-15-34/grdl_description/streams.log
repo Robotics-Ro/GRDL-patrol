@@ -1,0 +1,25 @@
+[0.014s] Invoking command in '/home/thro/amr_ws/GRDL/build/grdl_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/thro/amr_ws/11_ROS2_Humble/install/yolox_ros_py:/home/thro/amr_ws/11_ROS2_Humble/install/video_test:/home/thro/amr_ws/11_ROS2_Humble/install/my_first_package:/opt/ros/humble /home/thro/.local/bin/cmake /home/thro/amr_ws/GRDL/src/grdl_description -DCMAKE_INSTALL_PREFIX=/home/thro/amr_ws/GRDL/install/grdl_description
+[0.095s] -- The C compiler identification is GNU 11.3.0
+[0.146s] -- The CXX compiler identification is GNU 11.3.0
+[0.155s] -- Detecting C compiler ABI info
+[0.196s] -- Detecting C compiler ABI info - done
+[0.205s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.205s] -- Detecting C compile features
+[0.205s] -- Detecting C compile features - done
+[0.208s] -- Detecting CXX compiler ABI info
+[0.257s] -- Detecting CXX compiler ABI info - done
+[0.266s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.267s] -- Detecting CXX compile features
+[0.267s] -- Detecting CXX compile features - done
+[0.269s] -- Found ament_cmake: 1.3.4 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.581s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.6") found components: Interpreter 
+[0.654s] -- Found ament_lint_auto: 0.12.6 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.717s] -- Added test 'flake8' to check Python code syntax and style conventions
+[0.718s] -- Added test 'lint_cmake' to check CMake code style
+[0.718s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[0.719s] -- Added test 'xmllint' to check XML markup files
+[0.721s] -- Configuring done (0.7s)
+[0.723s] -- Generating done (0.0s)
+[0.724s] -- Build files have been written to: /home/thro/amr_ws/GRDL/build/grdl_description
+[0.736s] Invoked command in '/home/thro/amr_ws/GRDL/build/grdl_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/thro/amr_ws/11_ROS2_Humble/install/yolox_ros_py:/home/thro/amr_ws/11_ROS2_Humble/install/video_test:/home/thro/amr_ws/11_ROS2_Humble/install/my_first_package:/opt/ros/humble /home/thro/.local/bin/cmake /home/thro/amr_ws/GRDL/src/grdl_description -DCMAKE_INSTALL_PREFIX=/home/thro/amr_ws/GRDL/install/grdl_description
+[0.737s] Invoking command in '/home/thro/amr_ws/GRDL/build/grdl_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/thro/amr_ws/11_ROS2_Humble/install/yolox_ros_py:/home/thro/amr_ws/11_ROS2_Humble/install/video_test:/home/thro/amr_ws/11_ROS2_Humble/install/my_first_package:/opt/ros/humble /home/thro/.local/bin/cmake --build /home/thro/amr_ws/GRDL/build/grdl_description -- -j12 -l12

@@ -1,0 +1,2 @@
+Invoking command in '/home/thro/amr_ws/GRDL/build/yhsung_description': /home/thro/.local/bin/cmake /home/thro/amr_ws/GRDL/src/yhsung_description -DCMAKE_INSTALL_PREFIX=/home/thro/amr_ws/GRDL/install/yhsung_description
+Invoked command in '/home/thro/amr_ws/GRDL/build/yhsung_description' returned '1': /home/thro/.local/bin/cmake /home/thro/amr_ws/GRDL/src/yhsung_description -DCMAKE_INSTALL_PREFIX=/home/thro/amr_ws/GRDL/install/yhsung_description

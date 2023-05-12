@@ -1,0 +1,26 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/thro/amr_ws/11_ROS2_Humble/build/yolox_ros_py",
+        "/home/thro/amr_ws/11_ROS2_Humble/install/yolox_ros_py/lib/python3.10/site-packages",
+        "/home/thro/amr_ws/11_ROS2_Humble/build/video_test",
+        "/home/thro/amr_ws/11_ROS2_Humble/install/video_test/lib/python3.10/site-packages",
+        "/home/thro/amr_ws/11_ROS2_Humble/install/my_first_package_msgs/local/lib/python3.10/dist-packages",
+        "/home/thro/amr_ws/11_ROS2_Humble/build/my_first_package",
+        "/home/thro/amr_ws/11_ROS2_Humble/install/my_first_package/lib/python3.10/site-packages",
+        "/home/thro/amr_ws/11_ROS2_Humble/install/bboxes_ex_msgs/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/thro/amr_ws/11_ROS2_Humble/build/yolox_ros_py",
+        "/home/thro/amr_ws/11_ROS2_Humble/install/yolox_ros_py/lib/python3.10/site-packages",
+        "/home/thro/amr_ws/11_ROS2_Humble/build/video_test",
+        "/home/thro/amr_ws/11_ROS2_Humble/install/video_test/lib/python3.10/site-packages",
+        "/home/thro/amr_ws/11_ROS2_Humble/install/my_first_package_msgs/local/lib/python3.10/dist-packages",
+        "/home/thro/amr_ws/11_ROS2_Humble/build/my_first_package",
+        "/home/thro/amr_ws/11_ROS2_Humble/install/my_first_package/lib/python3.10/site-packages",
+        "/home/thro/amr_ws/11_ROS2_Humble/install/bboxes_ex_msgs/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}
